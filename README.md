@@ -1,5 +1,8 @@
-![App Screenshot](![image](https://i.imgur.com/HaVUrXA.png))
-
+## Product
+![App Screenshot](https://i.imgur.com/NcxlZ1K.png)
+## Product Recommendations
+![App Screenshot](https://i.imgur.com/zXe03h3.png)
+![App Screenshot](https://i.imgur.com/Z4aDRgr.png)
 ## Fashion Recommender System
 
 The Content-Based Fashion Recommender System is a recommendation engine that suggests fashion items to users based on their preferences and the characteristics of the items. It utilizes a content-based filtering approach to analyze the features of fashion items and recommend similar items to the users.
