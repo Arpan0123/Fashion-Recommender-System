@@ -1,4 +1,4 @@
-![App Screenshot](https://drive.google.com/file/d/1pd_lr8u8hmCsJNTAe-i-XSZvHUpLfpnv/view?usp=share_link)
+![App Screenshot](https://imgur.com/HaVUrXA)
 
 ## Fashion Recommender System
 
