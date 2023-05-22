@@ -1,4 +1,4 @@
-![App Screenshot](https://imgur.com/HaVUrXA)
+![App Screenshot](![image](https://github.com/Arpan0123/Fashion-Recommender-System/assets/87252154/c12cd690-e8d2-4448-8a25-9ed0a33f299b))
 
 ## Fashion Recommender System
 
