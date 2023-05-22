@@ -1,3 +1,5 @@
+![App Screenshot](https://drive.google.com/file/d/1pd_lr8u8hmCsJNTAe-i-XSZvHUpLfpnv/view?usp=share_link)
+
 # Fashion Recommender System
 
 The Content-Based Fashion Recommender System is a recommendation engine that suggests fashion items to users based on their preferences and the characteristics of the items. It utilizes a content-based filtering approach to analyze the features of fashion items and recommend similar items to the users.
